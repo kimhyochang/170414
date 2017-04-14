@@ -5,6 +5,7 @@ public class ex1 {
 		System.out.println("김효창");
 		System.out.println("안녕하세요");
 		System.out.println("환영합니다");
+		System.out.println("Hello");
 	}
 
 }
